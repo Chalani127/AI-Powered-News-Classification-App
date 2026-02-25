@@ -25,4 +25,4 @@ It also provides interactive features like sentiment analysis, readability scori
 ## How to Use
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/news-classification-app.git
+git clone https://github.com/yourusername/news-classification-app.git](https://github.com/Chalani127/AI-Powered-News-Classification-App.git
