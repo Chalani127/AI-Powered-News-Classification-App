@@ -22,11 +22,13 @@ It also provides interactive features like sentiment analysis, readability scori
 - Pandas, NumPy (data handling)  
 - Matplotlib, Seaborn (visualizations)  
 
+## Live Demo
+Try the app online without installing anything:  
+[**AI News Classifier**](https://huggingface.co/spaces/TAgroup5/demo-News_classifier)
+
 ## How to Use
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/news-classification-app.git](https://github.com/Chalani127/AI-Powered-News-Classification-App.git
 
-## Live Demo
-Try the app online without installing anything:  
-[**AI News Classifier**](https://huggingface.co/spaces/TAgroup5/demo-News_classifier)
+
